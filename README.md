@@ -36,6 +36,7 @@ export default StockTest;
 
 - [Kalyan Teja Tatineni](https://github.com/kalyanteja)
 
-#### Resource
+
+#### Resources
 
 - Chart powered by TradingView
