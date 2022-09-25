@@ -35,3 +35,7 @@ export default StockTest;
 ## Maintainers
 
 - [Kalyan Teja Tatineni](https://github.com/kalyanteja)
+
+#### Resource
+
+- Chart powered by TradingView
